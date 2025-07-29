@@ -44,9 +44,13 @@ Trained on 46904 samples of Jan 2025 taxi + hourly weather data
 
 Model Performance Comparison
 Model	        RMSE  R² Score
+
 Linear Reg	4.630	0.369
+
 Random Forest	3.843	0.565
+
 XGBoost	        3.686	0.600
+
 XGBoost (Tuned)	3.567	0.625
 
 >The final model used is XGBoost with hyperparameter tuning, which achieved the best performance in terms of both RMSE and R².
