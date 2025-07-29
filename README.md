@@ -72,6 +72,7 @@ NYC Yellow Taxi Trip Data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-da
 NOAA Weather Data: https://www.ncei.noaa.gov/data/local-climatological-data/
 
 ##References
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5282930/
 
 https://www.ncei.noaa.gov/access/search/data-search/daily-summaries
