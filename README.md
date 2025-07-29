@@ -17,12 +17,19 @@ This project was developed independently, from data preprocessing to modeling an
 ## 📂 Project Structure
 
 traffic-congestion-predictior/
+
 ├── notebooks/ # Jupyter notebooks
+
 ├── data/ # Raw and cleaned datasets
+
 ├── models/ # Saved model file (joblib)
+
 ├── Output #plots from EDA 
+
 ├── predict-function #final predictor(takes input)
+
 ├── requirements.txt
+
 ├── README.md
 
 ## ⚙️ Features
@@ -43,6 +50,7 @@ traffic-congestion-predictior/
 Trained on 46904 samples of Jan 2025 taxi + hourly weather data
 
 Model Performance Comparison
+
 Model	        RMSE  R² Score
 
 Linear Reg	4.630	0.369
