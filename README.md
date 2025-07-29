@@ -73,5 +73,7 @@ NOAA Weather Data: https://www.ncei.noaa.gov/data/local-climatological-data/
 
 ##References
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5282930/
+
 https://www.ncei.noaa.gov/access/search/data-search/daily-summaries
+
 https://nysfocus.com/2024/06/12/manhattan-traffic-record-congestion-pricing
